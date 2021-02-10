@@ -43,7 +43,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Entity Relationship Diagram (ERD)
 ![website](https://user-images.githubusercontent.com/46970261/107571381-1f353780-6beb-11eb-8ebe-485c398d9c8b.png)
 
 
